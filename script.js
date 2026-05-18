@@ -12,7 +12,7 @@ const HARDENED_PRODUCT_INVENTORY = [
         desc: "Premium pure organic cotton weaves with structured collection dupatta. Perfect for casual daily wear.", 
         tags: ["Summer Classic", "Breathable"],
         images:[
-            "images/floral-1.jpeg",
+            "floral-1.jpeg",
             "floral-2.jpeg"
         ]
     },
@@ -25,8 +25,8 @@ const HARDENED_PRODUCT_INVENTORY = [
         desc: "Ornate silk zari frameworks optimal for wedding celebrations and grand banquets.", 
         tags: ["Festive Wear", "Royal Texture"],
         images:[
-            "images/banarasi.jpeg",
-            "images/banarasi1.jpeg"
+            "banarasi.jpeg",
+            "banarasi1.jpeg"
         ]
     },
     { 
@@ -38,7 +38,7 @@ const HARDENED_PRODUCT_INVENTORY = [
         desc: "Faux mirror micro-arrangements set on lightweight sheer georgette bases. Includes matching inner fabric.", 
         tags: ["Evening Glam", "Trending Art"],
         images:[
-            "images/mirror.jpeg",
+            "mirror.jpeg",
         ]
     },
     { 
@@ -50,9 +50,9 @@ const HARDENED_PRODUCT_INVENTORY = [
         desc: "Authentic handloom Chanderi fabric with delicate golden border thread details and a sheer texture.", 
         tags: ["Handloom", "Elegant Choice"],
         images:[
-            "images/kora.jpeg",
-            "images/kora1.jpeg",
-            "images/kora2.jpeg"
+            "kora.jpeg",
+            "kora1.jpeg",
+            "kora2.jpeg"
         ]
     },
     { 
@@ -64,8 +64,8 @@ const HARDENED_PRODUCT_INVENTORY = [
         desc: "Ultra-soft premium Kashmiri Pashmina weave with intricate traditional digital tracking prints.", 
         tags: ["Winter Wear", "Premium Soft"],
         images:[
-            "images/wool.jpeg",
-            "images/wool1.jpeg"
+            "wool.jpeg",
+            "wool1.jpeg"
         ]
     },
     { 
@@ -77,8 +77,8 @@ const HARDENED_PRODUCT_INVENTORY = [
         desc: "Traditional Rajasthani Bandhani crinkled tie-dye patterns on high-grade flowy crepe fabric base.", 
         tags: ["Ethnic Heritage", "Vibrant Tones"],
         images:[
-            "images/badani.jpeg",
-            "images/badani1.jpeg"
+            "badani.jpeg",
+            "badani1.jpeg"
         ]
     }
 ];
