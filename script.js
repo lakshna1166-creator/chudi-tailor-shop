@@ -51,8 +51,8 @@ const HARDENED_PRODUCT_INVENTORY = [
         tags: ["Handloom", "Elegant Choice"],
         images:[
             "kora.jpeg",
-            "kora1.jpeg",
-            "kora2.jpeg"
+            "kora2.jpeg",
+            "kora3.jpeg"
         ]
     },
     { 
@@ -65,7 +65,7 @@ const HARDENED_PRODUCT_INVENTORY = [
         tags: ["Winter Wear", "Premium Soft"],
         images:[
             "wool.jpeg",
-            "wool1.jpeg"
+            "wool2.jpeg"
         ]
     },
     { 
