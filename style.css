@@ -1,0 +1,43 @@
+/* Custom CSS Extension Layer */
+
+/* Slide-in Keyframe Animation specifically mapping the side cart drawer actions */
+@keyframes slideIn {
+    from {
+        transform: translateX(100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+.drawer-animation {
+    animation: slideIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Form input custom field clean overrides to add smooth hover transition details */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+    transition: all 0.2s ease-in-out;
+}
+
+input[type="number"]:focus {
+    border-color: #e11d48; /* Rose 600 color anchor */
+    background-color: #fff;
+    box-shadow: 0 0 0 3px rgba(225, 29, 72, 0.15);
+}
+
+select {
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+select:focus {
+    border-color: #e11d48;
+    box-shadow: 0 0 0 3px rgba(225, 29, 72, 0.15);
+}
